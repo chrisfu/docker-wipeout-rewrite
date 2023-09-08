@@ -32,7 +32,7 @@ docker stop wipeout && docker rm wipeout
 
 ## TODO
 
-* Add a Kubernetes Helm Chart 
+* ~~Add a Kubernetes Helm Chart~~ **DONE** Please see [here](https://artifacthub.io/packages/helm/chrisfu/wipeout-rewrite). 
 
 # License
 
