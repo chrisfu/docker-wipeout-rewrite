@@ -1,5 +1,6 @@
 FROM debian:bookworm as build
 LABEL org.opencontainers.image.authors="chris@hardc0re.org.uk"
+LABEL org.opencontainers.image.version="05e9c2d"
 
 ARG DEBIAN_FRONTEND=noninteractive
 ARG BINARY_ARTIFACTS=https://phoboslab.org/files/wipeout-data-v01.zip
